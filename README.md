@@ -1,4 +1,6 @@
 # TFM-Sismografo
+![image](https://github.com/GerardLopezGarcia/TFM-Sismografo/assets/72072309/5307ff06-9d18-416b-89cb-6652d85d11a2)
+
 
 link bueno : https://www.youtube.com/watch?v=UU5lcK7Tn8M&ab_channel=Alex7Tutoriales
 
